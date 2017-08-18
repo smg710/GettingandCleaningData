@@ -1,4 +1,4 @@
-#Introduction to the assingment
+# Introduction to the assignment
 
 In this assignment we have been given a dataset storing the training and test results for different subjects 
 while performing different activities. The aim of my script is to merge together the different datasets and clean
